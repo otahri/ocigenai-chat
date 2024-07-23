@@ -1,0 +1,3 @@
+[ocigenai]
+service_endpoint = https://inference.generativeai.us-chicago-1.oci.oraclecloud.com
+compartment_id = ocid1.compartment...xxxxx
